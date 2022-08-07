@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/trinhvanminh/trinhvanminh/blob/main/devcard.svg" width="400" alt="Minh's Dev Card"/></a>
+<a href="https://app.daily.dev/trinhvanminh"><img src="https://github.com/trinhvanminh/trinhvanminh/blob/main/devcard.svg" width="400" alt="Minh's Dev Card"/></a>
 
 - 🔭 I’m currently working on Frontend developer
 - 🌱 I’m currently learning ReactJs. And my next plan is NextJs, ReactNative, Django, NodeJs, ....
