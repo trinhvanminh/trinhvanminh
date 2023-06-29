@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Frontend developer
+- 🔭 I’m currently working on a Frontend developer
 - 🌱 I’m currently learning ReactJs. And my next plan is NextJs, ReactNative, Django, NodeJs, ....
-- 💬 Ask me about job: tvminh2611@gmail.com
+- 💬 Ask me about the job: tvminh2611@gmail.com
 - 📫 How to reach me: +84943439160
-- ⚡ Fun fact: You can not change people around you. But you can change people around you.
+- ⚡ Fun fact: You can not change people around you. But you can change the people around you.
 
-### My devcard
+### My dev card
 
 <a href="https://app.daily.dev/trinhvanminh"><img src="https://github.com/trinhvanminh/trinhvanminh/blob/main/devcard.svg" width="400" alt="Minh's Dev Card"/></a>
 
