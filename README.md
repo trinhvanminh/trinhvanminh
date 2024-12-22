@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to c
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/trinhvanminh](https://www.linkedin.com/in/minh-trinh-van-4a29a2210/))
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)]([https://twitter.com/trinhvanminh](https://x.com/minhtrinh2611))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minh-trinh-van-4a29a2210/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/minhtrinh2611)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:tvminh2611@gmail.com)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech! 😊
