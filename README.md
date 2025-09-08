@@ -1,6 +1,6 @@
 # Hi there, I'm Minh! 👋
 
-Welcome to my GitHub profile! ~~I'm a passionate software developer who loves to create, learn, and share knowledge. Here you'll find a collection of my projects, contributions, and interests.~~ **I just want to survive**
+Welcome to my GitHub profile! ~~I'm a passionate software developer who loves to create, learn, and share knowledge. Here you'll find a collection of my projects, contributions, and interests.~~ **Need money to survive**
 
 ## 🚀 About Me
 
