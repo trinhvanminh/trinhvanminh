@@ -23,16 +23,6 @@ Welcome to my GitHub profile! ~~I'm a passionate software developer who loves to
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 GitHub Stats
-
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhvanminh&show_icons=true&theme=radical)
-
-## 📌 Pinned Repositories
-
-[![advanced RAG](https://github-readme-stats.vercel.app/api/pin/?username=trinhvanminh&repo=advanced-RAG&theme=radical)](https://github.com/trinhvanminh/advanced-RAG)
-[![Web3 chat app](https://github-readme-stats.vercel.app/api/pin/?username=trinhvanminh&repo=chat-dapp&theme=radical)](https://github.com/trinhvanminh/chat-dapp)
-[![Anchor positioning](https://github-readme-stats.vercel.app/api/pin/?username=trinhvanminh&repo=anchor-positioning-hover-cards&theme=radical)](https://github.com/trinhvanminh/anchor-positioning-hover-cards)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minh-trinh-van-4a29a2210/)
