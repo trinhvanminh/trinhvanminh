@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to c
 - 📫 How to reach me: [tvminh2611@gmail.com](mailto:tvminh2611@gmail.com)
 - ⚡ Fun fact: I enjoy playing video games (valorant, LOL), camping and nature things.
 
-## 🎯 My goals:
+## 🎯 My goals
 - Senior Frontend Engineer
 - Design Engineer
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to c
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📚 Learning:
+## 📚 Learning
 - Animation with [Motion 🏃‍♂️](https://motion.dev/)
 - Icon animation with [Lottiefiles](https://lottiefiles.com/)
 - Object animation with [Rive](https://rive.app/)
