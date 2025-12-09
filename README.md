@@ -2,18 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves to create, learn, and share knowledge. 
 
-My goals:
-- Senior Frontend Engineer
-- Design Engineer
-
-Learning:
-- Animation with [Motion 🏃‍♂️](https://motion.dev/)
-- Icon animation with [Lottiefiles](https://lottiefiles.com/)
-- Object animation with [Rive](https://rive.app/)
-- Realtime Applications
-- 3D web with [ThreeJs](https://threejs.org/)
-- Web3 with [Solidity](https://www.soliditylang.org/)
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced web development and exploring machine learning.
@@ -21,6 +9,10 @@ Learning:
 - 💬 Ask me about JavaScript, Python, and web development.
 - 📫 How to reach me: [tvminh2611@gmail.com](mailto:tvminh2611@gmail.com)
 - ⚡ Fun fact: I enjoy playing video games (valorant, LOL), camping and nature things.
+
+## 🎯 My goals:
+- Senior Frontend Engineer
+- Design Engineer
 
 ## 🔧 Technologies & Tools
 
@@ -34,6 +26,14 @@ Learning:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📚 Learning:
+- Animation with [Motion 🏃‍♂️](https://motion.dev/)
+- Icon animation with [Lottiefiles](https://lottiefiles.com/)
+- Object animation with [Rive](https://rive.app/)
+- Realtime Applications
+- 3D web with [ThreeJs](https://threejs.org/)
+- Web3 with [Solidity](https://www.soliditylang.org/)
 
 ## 📫 Connect with Me
 
